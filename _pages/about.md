@@ -7,22 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-Xueyu Wang, male, Han nationality, born in 2004, a member of the Communist Youth League, is a student of the Optoelectronic Information Science and Engineering major of the School of Electronic Information Engineering, [South-Central Minzu University](https://www.scuec.edu.cn/), Class 2201, Grade 2022. He is currently a member of the Laser Spectroscopy Application Laboratory of the [School of Electronic Information Engineering](https://dxxy.scuec.edu.cn/), and his instructor is [Prof. Zhaoxiang Lin](https://dxxy.scuec.edu.cn/info/1055/1950.htm).
+Xueyu Wang(Pollack Wong), male, Han nationality, born in 2004, a member of the Communist Youth League, is a student of the Optoelectronic Information Science and Engineering major of the School of Electronic Information Engineering, [South-Central Minzu University](https://www.scuec.edu.cn/), Class 2201, Grade 2022. He is currently a member of the Laser Spectroscopy Application Laboratory of the [School of Electronic Information Engineering](https://dxxy.scuec.edu.cn/), and his instructor is [Prof. Zhaoxiang Lin](https://dxxy.scuec.edu.cn/info/1055/1950.htm).
 
-A data-driven personal website
+Service and Serving
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. 2022.09-2023.09 Secretary of the Community Service Team of the Youth Volunteer Association of South-Central University for Nationalities;
+1. 2024.09- Propaganda Committee Member of the Youth League Branch of Guangxin 2201 Class, School of Electronic Information Engineering, South-Central University for Nationalities;
+1. 2024.09- Vice President of the Mathematical Modeling Association of South-Central University for Nationalities.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Honors
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. 2022.11 Won the honorary title of "Excellent Summer Volunteer" at the college level;
+1. 2022.11 Won the Excellence Award of the School Science Popularization Explanation Competition;
+1. 2023.02 Won the Advanced Individual of Winter Vacation Social Practice at the school level;
+1. 2023.06 Won the Second Prize of the Central and Southern Division of the National College Student Computer Design Competition (National Class B);
+1. 2023.06 Won the School-level Excellent Volunteer;
+1. 2023.09 Won the National Scholarship for the 2022-2023 Academic Year;
+1. 2023.09 Won the First-class Scholarship of the School for the 2022-2023 Academic Year;
+1. 2023.09 Won the Special Scholarship for Social Practice in the 2022-2023 Academic Year;
+1. 2023.09 Won the Excellent Tutor in the 2022-2023 Academic Year;
+1. 2023.11 Won the Provincial First Prize of the National College Student Mathematical Modeling Competition (National Class B, First in the School);
+1. 2023.12 Won the third prize in the preliminary round of the National College Mathematics Competition (non-mathematics A category, national D category);
+1. 2023.12 Won the second prize in the preliminary round of the Hubei Translation Competition (provincial C category);
+1. 2024.03 Won the school-level outstanding Communist Youth League member;
+1. 2024.04 Won the first prize in the e-commerce three-innovation competition of South-Central University for Nationalities;
+1. 2024.04 Won the second prize in the school of the "Challenge Cup" College Student Entrepreneurship Plan Competition;
+1. 2024.04 Won the third prize of the "Challenge Cup" College Student Entrepreneurship Plan Competition;
+1. 2024.06 Won the third prize of the "Teddy Cup" Data Mining Challenge (National Class C);
+1. 2024.06 Won the Innovation Model of College Students of South-Central University for Nationalities;
+1. 2024.09 Won the Special Scholarship for Social Practice in the 2023-2024 Academic Year;
+1. 2024.09 Won the Excellent Tutor in the 2023-2024 Academic Year (two consecutive years);
+1. 2024.09 Won the Five Good Students in the 2023-2024 Academic Year;
+1. 2024.11 Won the third prize of Hubei Province in the National College Mathematical Modeling Competition (National Class B);
+1. 2024.12 Won the third prize of the preliminary round of the National College Mathematical Competition (non-mathematical A class, national class D);
+A total of two national honors, seven provincial honors, and more than thirty honors at the college level and above.
+
 
 Site-wide configuration
 ------
