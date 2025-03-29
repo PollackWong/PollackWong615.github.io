@@ -37,11 +37,11 @@ Selected Publications
 ------
 Course Support Materials and Reference Answers
 
-[1] Xueyu Wang.University Physics A Exercise Book (Volume 1) Reference Analysis (Trial Version).2023 [PDF](/files/University%20Physics%20A%20Exercise%20Book%20(Volume%201)%20Reference%20Analysis%20(Trial%20Version).pdf)
+[1] Xueyu Wang.University Physics A Exercise Book (Volume 1) Reference Analysis (Trial Version).2023 [PDF](./files/University%20Physics%20A%20Exercise%20Book%20(Volume%201)%20Reference%20Analysis%20(Trial%20Version).pdf)
 
-[2] Xueyu Wang.University Physics A Exercise Book (Volume 2) Reference Analysis (Electromagnetism Trial Version).2023 [PDF](https://github.com/PollackWong/PollackWong615.github.io/blob/master/files/Solutions%20to%20Electromagnetics%20and%20Quantum%20Mechanics%20.pdf)
+[2] Xueyu Wang.University Physics A Exercise Book (Volume 2) Reference Analysis (Electromagnetism Trial Version).2023 [PDF](./files/Solutions%20to%20Electromagnetics%20and%20Quantum%20Mechanics%20.pdf)
 
-[3] Xueyu Wang.Methods of Mathematical Physics.2023 [PDF](/files/Methods%20of%20Mathematical%20Physics.pdf)
+[3] Xueyu Wang.Methods of Mathematical Physics.2023 [PDF](./files/Methods%20of%20Mathematical%20Physics.pdf)
 
 [4] Xueyu Wang.Quantum Mechanics.2023 [PDF](./files/quantum%20mechanics.pdf)
 
