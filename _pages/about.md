@@ -41,7 +41,7 @@ Course Support Materials and Reference Answers
 
 [2] Xueyu Wang.University Physics A Exercise Book (Volume 2) Reference Analysis (Electromagnetism Trial Version).2023 [PDF](Solutions to Electromagnetics and Quantum Mechanics.pdf)
 
-[3] Xueyu Wang.Methods of Mathematical Physics.2023 [PDF](Methods of Mathematical Physics.pdf)
+[3] Xueyu Wang.Methods of Mathematical Physics.2023 [PDF](files/Methods of Mathematical Physics.pdf)
 
 [4] Xueyu Wang.Quantum Mechanics.2023 [PDF](quantum mechanics.pdf)
 
