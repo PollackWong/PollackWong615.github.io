@@ -11,40 +11,33 @@ Xueyu Wang(Pollack Wong), male, Han nationality, born in 2004, a member of the C
 
 Service and Serving
 ======
-1. 2022.09-2023.09 Secretary of the Community Service Team of the Youth Volunteer Association of South-Central University for Nationalities;
-1. 2024.09- Propaganda Committee Member of the Youth League Branch of Guangxin 2201 Class, School of Electronic Information Engineering, South-Central University for Nationalities;
-1. 2024.09- Vice President of the Mathematical Modeling Association of South-Central University for Nationalities.
+1. 2022.09-2023.09 Secretary of the Community Service Team of the Youth Volunteer Association of South-Central Minzu University;
+1. 2024.09- Propaganda Committee Member of the Youth League Branch of Guangxin 2201 Class, School of Electronic Information Engineering, South-Central Minzu University;
+1. 2024.09- Vice President of the Mathematical Modeling Association of South-Central Minzu University .
 
 Honors
 ======
-1. 2022.11 Won the honorary title of "Excellent Summer Volunteer" at the college level;
-1. 2022.11 Won the Excellence Award of the School Science Popularization Explanation Competition;
-1. 2023.02 Won the Advanced Individual of Winter Vacation Social Practice at the school level;
-1. 2023.06 Won the Second Prize of the Central and Southern Division of the National College Student Computer Design Competition (National Class B);
-1. 2023.06 Won the School-level Excellent Volunteer;
+1. 2023.06 Won the Second Prize of the Central and Southern Division of the Chinese Collegiate Computing Competition(National Class B);
 1. 2023.09 Won the National Scholarship for the 2022-2023 Academic Year;
 1. 2023.09 Won the First-class Scholarship of the School for the 2022-2023 Academic Year;
-1. 2023.09 Won the Special Scholarship for Social Practice in the 2022-2023 Academic Year;
 1. 2023.09 Won the Excellent Tutor in the 2022-2023 Academic Year;
-1. 2023.11 Won the Provincial First Prize of the National College Student Mathematical Modeling Competition (National Class B, First in the School);
+1. 2023.11 Won the Provincial First Prize of the China Undergraduate Mathematical Contest in Modeling (National Class B, First in the School);
 1. 2023.12 Won the third prize in the preliminary round of the National College Mathematics Competition (non-mathematics A category, national D category);
-1. 2023.12 Won the second prize in the preliminary round of the Hubei Translation Competition (provincial C category);
-1. 2024.03 Won the school-level outstanding Communist Youth League member;
-1. 2024.04 Won the first prize in the e-commerce three-innovation competition of South-Central University for Nationalities;
-1. 2024.04 Won the second prize in the school of the "Challenge Cup" College Student Entrepreneurship Plan Competition;
-1. 2024.04 Won the third prize of the "Challenge Cup" College Student Entrepreneurship Plan Competition;
 1. 2024.06 Won the third prize of the "Teddy Cup" Data Mining Challenge (National Class C);
-1. 2024.06 Won the Innovation Model of College Students of South-Central University for Nationalities;
-1. 2024.09 Won the Special Scholarship for Social Practice in the 2023-2024 Academic Year;
+1. 2024.06 Won the Innovation Model of College Students of South-Central Minzu University;
 1. 2024.09 Won the Excellent Tutor in the 2023-2024 Academic Year (two consecutive years);
 1. 2024.09 Won the Five Good Students in the 2023-2024 Academic Year;
 1. 2024.11 Won the third prize of Hubei Province in the National College Mathematical Modeling Competition (National Class B);
 1. 2024.12 Won the third prize of the preliminary round of the National College Mathematical Competition (non-mathematical A class, national class D);
+
 A total of two national honors, seven provincial honors, and more than thirty honors at the college level and above.
 
 
-Site-wide configuration
+Selected Publications
 ------
+Course Support Materials and Reference Answers
+1. University Physics (A)
+2. [Reference analysis of university physics exercise books]
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
