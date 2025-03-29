@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Xueyu Wang, male, Han nationality, born in 2004, a member of the Communist Youth League, is a student of the Optoelectronic Information Science and Engineering major of the School of Electronic Information Engineering, [South-Central minzu University](https://www.scuec.edu.cn/), Class 2201, Grade 2022. He is currently a member of the Laser Spectroscopy Application Laboratory of the [School of Electronic Information Engineering](https://dxxy.scuec.edu.cn/), and his instructor is [Prof. Lin Zhaoxiang](https://dxxy.scuec.edu.cn/info/1055/1950.htm).
 
 A data-driven personal website
 ======
