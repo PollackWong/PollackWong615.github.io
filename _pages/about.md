@@ -17,18 +17,18 @@ Service and Serving
 
 Honors
 ======
-1. 2023.06 Won the Second Prize of the Central and Southern Division of the Chinese Collegiate Computing Competition(National Class B);
-1. 2023.09 Won the National Scholarship for the 2022-2023 Academic Year;
-1. 2023.09 Won the First-class Scholarship of the School for the 2022-2023 Academic Year;
-1. 2023.09 Won the Excellent Tutor in the 2022-2023 Academic Year;
-1. 2023.11 Won the Provincial First Prize of the China Undergraduate Mathematical Contest in Modeling (National Class B, First in the School);
-1. 2023.12 Won the third prize in the preliminary round of the National College Mathematics Competition (non-mathematics A category, national D category);
-1. 2024.06 Won the third prize of the "Teddy Cup" Data Mining Challenge (National Class C);
-1. 2024.06 Won the Innovation Model of College Students of South-Central Minzu University;
-1. 2024.09 Won the Excellent Tutor in the 2023-2024 Academic Year (two consecutive years);
-1. 2024.09 Won the Five Good Students in the 2023-2024 Academic Year;
-1. 2024.11 Won the third prize of Hubei Province in the National College Mathematical Modeling Competition (National Class B);
-1. 2024.12 Won the third prize of the preliminary round of the National College Mathematical Competition (non-mathematical A class, national class D);
+(1). 2023.06 Won the Second Prize of the Central and Southern Division of the Chinese Collegiate Computing Competition(National Class B);
+(1). 2023.09 Won the National Scholarship for the 2022-2023 Academic Year;
+(1). 2023.09 Won the First-class Scholarship of the School for the 2022-2023 Academic Year;
+(1). 2023.09 Won the Excellent Tutor in the 2022-2023 Academic Year;
+(1). 2023.11 Won the Provincial First Prize of the China Undergraduate Mathematical Contest in Modeling (National Class B, First in the School);
+(1). 2023.12 Won the third prize in the preliminary round of the National College Mathematics Competition (non-mathematics A category, national D category);
+(1). 2024.06 Won the third prize of the "Teddy Cup" Data Mining Challenge (National Class C);
+(1). 2024.06 Won the Innovation Model of College Students of South-Central Minzu University;
+(1). 2024.09 Won the Excellent Tutor in the 2023-2024 Academic Year (two consecutive years);
+(1). 2024.09 Won the Five Good Students in the 2023-2024 Academic Year;
+(1). 2024.11 Won the third prize of Hubei Province in the National College Mathematical Modeling Competition (National Class B);
+(1). 2024.12 Won the third prize of the preliminary round of the National College Mathematical Competition (non-mathematical A class, national class D);
 
 A total of two national honors, seven provincial honors, and more than thirty honors at the college level and above.
 
@@ -36,8 +36,10 @@ A total of two national honors, seven provincial honors, and more than thirty ho
 Selected Publications
 ------
 Course Support Materials and Reference Answers
-1. University Physics (A)
-2. [Reference analysis of university physics exercise books]
+[1]. Xueyu Wang.University Physics A Exercise Book (Volume 1) Reference Analysis (Trial Version).2023 [PDF](University Physics A Exercise Book (Volume 1) Reference Analysis (Trial Version).pdf)
+[2]. Xueyu Wang.University Physics A Exercise Book (Volume 2) Reference Analysis (Electromagnetism Trial Version).2023 [PDF](Solutions to Electromagnetics and Quantum Mechanics.pdf)
+[3]. Xueyu Wang.Methods of Mathematical Physics.2023 [PDF](Methods of Mathematical Physics.pdf)
+[4]. Xueyu Wang.Quantum Mechanics.2023 [PDF](quantum mechanics.pdf)
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
