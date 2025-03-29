@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pollack Wong'sCV"
+title: "Pollack Wong's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
