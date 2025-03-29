@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xueyu Wang, male, Han nationality, born in 2004, a member of the Communist Youth League, is a student of the Optoelectronic Information Science and Engineering major of the School of Electronic Information Engineering, [South-Central minzu University](https://www.scuec.edu.cn/), Class 2201, Grade 2022. He is currently a member of the Laser Spectroscopy Application Laboratory of the [School of Electronic Information Engineering](https://dxxy.scuec.edu.cn/), and his instructor is [Prof. Lin Zhaoxiang](https://dxxy.scuec.edu.cn/info/1055/1950.htm).
+Xueyu Wang, male, Han nationality, born in 2004, a member of the Communist Youth League, is a student of the Optoelectronic Information Science and Engineering major of the School of Electronic Information Engineering, [South-Central Minzu University](https://www.scuec.edu.cn/), Class 2201, Grade 2022. He is currently a member of the Laser Spectroscopy Application Laboratory of the [School of Electronic Information Engineering](https://dxxy.scuec.edu.cn/), and his instructor is [Prof. Zhaoxiang Lin](https://dxxy.scuec.edu.cn/info/1055/1950.htm).
 
 A data-driven personal website
 ======
