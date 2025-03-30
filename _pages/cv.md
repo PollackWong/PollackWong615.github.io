@@ -15,18 +15,18 @@ Education
 
 Please refer to my resume for details.[PDF](./files/PollackWong's%20CV.pdf)
   
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-# {% include archive-single-cv.html %}
-# {% endfor %}</ul>
+<!-- Publications
+======
+  <ul>{% for post in site.publications reversed %}
+ {% include archive-single-cv.html %}
+ {% endfor %}</ul>
   
-#Talks
-#======
-#<ul>{% for post in site.talks reversed %}
-#{% include archive-single-talk-cv.html  %}
-#{% endfor %}</ul>
-  
+Talks
+======
+<ul>{% for post in site.talks reversed %}
+{% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
+  -->
 
   
 
