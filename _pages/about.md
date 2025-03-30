@@ -27,7 +27,7 @@ Honors
 * 2024.06 Won the Innovation Model of College Students of South-Central Minzu University;
 * 2024.09 Won the Excellent Tutor in the 2023-2024 Academic Year (two consecutive years);
 * 2024.09 Won the Five Good Students in the 2023-2024 Academic Year;
-* 2024.11 Won the third prize of Hubei Province in the National College Mathematical Modeling Competition (National Class B);
+* 2024.11 Won the third prize of Hubei Province in the China Undergraduate Mathematical Contest in Modeling (National Class B);
 * 2024.12 Won the third prize of the preliminary round of the National College Mathematical Competition (non-mathematical A class, national class D);
 
 A total of two national honors, seven provincial honors, and more than thirty honors at the college level and above.
@@ -41,9 +41,9 @@ Course Support Materials and Reference Answers
 
 [2] Xueyu Wang.University Physics A Exercise Book (Volume 2) Reference Analysis (Electromagnetism Trial Version).2023 [PDF](./files/Solutions%20to%20Electromagnetics%20and%20Quantum%20Mechanics%20.pdf)
 
-[3] Xueyu Wang.Methods of Mathematical Physics.2023 [PDF](./files/Methods%20of%20Mathematical%20Physics.pdf)
+[3] Xueyu Wang.Methods of Mathematical Physics.2024 [PDF](./files/Methods%20of%20Mathematical%20Physics.pdf)
 
-[4] Xueyu Wang.Quantum Mechanics.2023 [PDF](./files/quantum%20mechanics.pdf)
+[4] Xueyu Wang.Quantum Mechanics.2025 [PDF](./files/quantum%20mechanics.pdf)
 
 
 Projects
@@ -58,4 +58,4 @@ Under the guidance of Prof. Zhaoxiang Lin, I participated in the outsourcing pro
 
 For more info
 ------
-More info about me can be found in my [Google Mail](xueyuwang615@gmail.com),  and you can always [ask a question on GitHub](https://github.com/discussions). I hope these can help you as much as possible.The author is continuously updating...
+More info about me can be found in my Google Mail(xueyuwang615@gmail.com),  and you can always [ask a question on GitHub](https://github.com/discussions). I hope these can help you as much as possible.The author is continuously updating...
