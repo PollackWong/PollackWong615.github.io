@@ -46,13 +46,6 @@ Course Support Materials and Reference Answers
 [4] Xueyu Wang.Quantum Mechanics.2023 [PDF](./files/quantum%20mechanics.pdf)
 
 
-
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
 Projects
 ------
 [**Laser Induced Breakdown Spectroscopy (LIBS) Detection of Mineral Tibetan Medicine**](https://mp.weixin.qq.com/s/HZbrrL2ACTAaxxClertyNw)
@@ -65,4 +58,4 @@ Under the guidance of Prof. Zhaoxiang Lin, I participated in the outsourcing pro
 
 For more info
 ------
-More info about me can be found in my [google mail](xueyuwang615.gmail.com), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about me can be found in my [Google Mail](xueyuwang615@gmail.com),  and you can always [ask a question on GitHub](https://github.com/discussions). I hope these can help you as much as possible.The author is continuously updating...
