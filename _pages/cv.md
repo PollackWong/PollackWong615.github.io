@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Optoelectronic Information Science and Engineering, GitHub University, 2026 (expected)
 
-Please refer to my resume for details.[PDF](/files/PollackWong's%20CV.pdf)
+Please refer to my resume for details.[PDF](./files/PollackWong's%20CV.pdf)
   
 <!-- Publications
 ======
