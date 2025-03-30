@@ -56,11 +56,13 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 Projects
 ------
 [**Laser Induced Breakdown Spectroscopy (LIBS) Detection of Mineral Tibetan Medicine**](https://mp.weixin.qq.com/s/HZbrrL2ACTAaxxClertyNw)
+
 Under the guidance of Prof. Zhaoxiang Lin, I participated in the outsourcing project "Detection of Turquoise Ore Composition Based on LIBS Technology" of the "National Major R&D Project" (Major New Drug Creation 2014zx09301308).
+
 **Optical tweezers, optical trapping, automatic detection and planning of microsphere motion morphology**
 
 ![Schematic diagram of optical tweezers](/images/1.jpg)
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about me can be found in my [google mail](xueyuwang615.gmail.com), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
