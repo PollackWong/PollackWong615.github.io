@@ -59,7 +59,7 @@ Projects
 Under the guidance of Prof. Zhaoxiang Lin, I participated in the outsourcing project "Detection of Turquoise Ore Composition Based on LIBS Technology" of the "National Major R&D Project" (Major New Drug Creation 2014zx09301308).
 **Optical tweezers, optical trapping, automatic detection and planning of microsphere motion morphology**
 
-![Schematic diagram of optical tweezers](./images/1.jpg)
+![Schematic diagram of optical tweezers](/images/1.jpg)
 
 For more info
 ------
