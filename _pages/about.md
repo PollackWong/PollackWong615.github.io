@@ -13,7 +13,7 @@ Services
 ======
 * 2022.09-2023.09 Secretary of the Community Service Team of the Youth Volunteer Association of South-Central Minzu University;
 * 2024.09- Propaganda Committee Member of the Youth League Branch of Guangxin 2201 Class, School of Electronic Information Engineering, South-Central Minzu University;
-* 2024.09- Vice President of the Mathematical Modeling Association of South-Central Minzu University .
+* 2024.09- Vice President of the Mathematical Modeling Association of South-Central Minzu University [PDF]{./}.
 
 Honors
 ======
