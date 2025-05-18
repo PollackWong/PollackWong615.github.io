@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Optoelectronic Information Science and Engineering, GitHub University, 2026 (expected)
+* B.S. in Optoelectronic Information Science and Engineering, South-central Minzu University, 2026 (expected)
 
 Please refer to my resume for details.[PDF](https://pollackwong.github.io/PollackWong615.github.io/files/PollackWong's%20CV.pdf)
   
