@@ -47,7 +47,7 @@ Course Support Materials and Reference Answers
 
 Updates
 ------
-[1] Summer 2024, special seminar of the Association for Mathematical Modeling.[PDF]()
+[1] Summer 2024, special seminar of the Association for Mathematical Modeling.[PDF](./files/Presentation(2024%20summer%2CMathematical%20modeling).pdf)
 
 Projects
 ------
