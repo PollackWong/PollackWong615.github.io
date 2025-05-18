@@ -45,6 +45,9 @@ Course Support Materials and Reference Answers
 
 [4] Xueyu Wang.Quantum Mechanics.2025 [PDF](./files/quantum%20mechanics.pdf)
 
+Updates
+------
+[1] Summer 2024, special seminar of the Association for Mathematical Modeling.[PDF]()
 
 Projects
 ------
